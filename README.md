@@ -1,6 +1,7 @@
 # NIU SSO3 —— 统一身份登录网关
 
 把**Waf防火墙/钉钉 / 飞书 / 企业微信**三种登录合并到一个网关，给不支持这些登录方式的老 Web 系统外挂一层前置认证：
+![导图.png](https://raw.gitcode.com/user-images/assets/11349201/780659b6-b62e-41ed-b249-e7e8c5611c05/导图.png '导图.png')
 ![防火墙-网关-启动.jpg](https://raw.gitcode.com/user-images/assets/11349201/bc357132-a281-4db9-b8ba-81faf0433395/防火墙-网关-启动.jpg '防火墙-网关-启动.jpg')
 ![第三方登录SSO3.jpg](https://raw.gitcode.com/user-images/assets/11349201/df285db0-5916-4845-b8e4-0427fa458189/第三方登录SSO3.jpg '第三方登录SSO3.jpg')
 ![防火墙-网关-集成登录1.jpg](https://raw.gitcode.com/user-images/assets/11349201/8386f6f6-96df-4d2c-9069-b30c7fabd7ed/防火墙-网关-集成登录1.jpg '防火墙-网关-集成登录1.jpg')
